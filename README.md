@@ -12,3 +12,5 @@ Data visualization with Python
 - 10 Heatmap
 - 11 Bubble plot
 - 12 Area plot
+- 13 Wordcloud
+- 14 Lollipop plot
